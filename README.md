@@ -23,3 +23,8 @@
 ## Specifications
 
 - [Semantic Line Breaks](https://sembr.org/)
+
+## Design
+
+- [Atomic Web Design](https://bradfrost.com/blog/post/atomic-web-design/)
+- [Braid Design System](https://seek-oss.github.io/braid-design-system/)
