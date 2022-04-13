@@ -26,6 +26,13 @@
 
 ## Design
 
+### Learning
 - [Atomic Web Design](https://bradfrost.com/blog/post/atomic-web-design/)
 - [Braid Design System](https://seek-oss.github.io/braid-design-system/)
+
+### Open-source tools
 - [unocss](https://github.com/unocss/unocss)
+
+### Inspiration
+- [Hoppscotch](https://hoppscotch.io/)
+- [Colorbook](https://liyasthomas.github.io/colorbook/)
